@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.36\button.36\button.36\bin\Debug\button.36.exe.config
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.36\button.36\button.36\bin\Debug\button.36.exe
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.36\button.36\button.36\bin\Debug\button.36.pdb
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.36\button.36\button.36\obj\Debug\button.36.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.36\button.36\button.36\obj\Debug\button.36.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.36\button.36\button.36\obj\Debug\button._36.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.36\button.36\button.36\obj\Debug\button._36.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.36\button.36\button.36\obj\Debug\button.36.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.36\button.36\button.36\obj\Debug\button.36.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.36\button.36\button.36\obj\Debug\button.36.exe
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.36\button.36\button.36\obj\Debug\button.36.pdb
